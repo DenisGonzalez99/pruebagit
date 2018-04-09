@@ -1,0 +1,8 @@
+# a comment - this is ignored
+
+# ignorar los ficheros .class y el directorio tmo
+*.class
+*.jar
+/tmp
+desktop.ini
+/build
